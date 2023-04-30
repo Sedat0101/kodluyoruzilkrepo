@@ -4,9 +4,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) front end eğitiminde oluştur
 
 # Installation
 
-` ` ` ` 
+``````
 https://github.com/Sedat0101/kodluyoruzilkrepo.git
-` ` ` ` 
+``````
 ---
 
 # Usage 
